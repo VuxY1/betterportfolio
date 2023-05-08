@@ -273,7 +273,7 @@
 
  .my-services {
    background-color: var(--clr-light);
-   background-image: url(img/services-bg.jpg);
+   background-image: url(services-bg.jpg);
    background-size: cover;
    color: var(--clr-light);
    text-align: center;
